@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".SignupActivity">
+
     <ImageView
         android:id="@+id/iv_circle"
         android:layout_width="200dp"
@@ -82,15 +83,15 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
-           <ImageView
-               android:id="@+id/iv_signup_name"
-               android:layout_width="25dp"
-               android:layout_height="25dp"
-               android:layout_marginStart="110dp"
-               android:src="@drawable/ic_user"
-               android:scaleType="fitXY"
-               app:layout_constraintStart_toStartOf="parent"
-               app:layout_constraintTop_toTopOf="parent"/>
+            <ImageView
+                android:id="@+id/iv_signup_name"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_marginStart="110dp"
+                android:src="@drawable/ic_user"
+                android:scaleType="fitXY"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"/>
 
             <EditText
                 android:id="@+id/et_signup_name"
@@ -268,7 +269,7 @@
             android:layout_gravity="start"
             android:paddingStart="50dp"
             android:paddingEnd="25dp"
-            android:text="< BACK"
+            android:text="BACK"
             android:textColor="@android:color/holo_blue_dark"
             android:textAllCaps="false"
             android:background="@android:color/transparent"
@@ -276,6 +277,4 @@
 
 
     </androidx.cardview.widget.CardView>
-
-
 </androidx.constraintlayout.widget.ConstraintLayout>
