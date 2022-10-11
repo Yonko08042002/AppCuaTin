@@ -4,12 +4,21 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1625" />
+        <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/drawable/bgr_btn.xml" value="0.2445" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/drawable/circle.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/drawable/circle_background.xml" value="0.2595" />
+        <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/drawable/grey_bgr.xml" value="0.1435" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/drawable/ic_arrow_right.xml" value="0.1625" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/drawable/ic_done.xml" value="0.1625" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1625" />
+        <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/drawable/top_bgr.xml" value="0.1895" />
+        <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/drawable/white_bgr.xml" value="0.2595" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_login1.xml" value="0.264" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_main.xml" value="0.23478260869565218" />
+        <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_main2.xml" value="0.24728260869565216" />
+        <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_menu.xml" value="0.253125" />
+        <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_profile.xml" value="0.25" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_signup.xml" value="0.24728260869565216" />
       </map>
     </option>

@@ -13,11 +13,11 @@ public class SignupActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_signup);
-        btn_back = findViewById(R.id.btn_goto_register);
+        btn_back = findViewById(R.id.btn_back);
         btn_back.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i =new Intent(SignupActivity.this,MainActivity.class);
+                Intent i =new Intent(SignupActivity.this, LoginActivity1.class);
                 startActivity(i);
             }
         });
