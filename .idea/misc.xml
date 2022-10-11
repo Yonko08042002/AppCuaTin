@@ -13,12 +13,13 @@
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1625" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/drawable/top_bgr.xml" value="0.1895" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/drawable/white_bgr.xml" value="0.2595" />
+        <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/drawable/white_edittext.xml" value="0.2575" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_login1.xml" value="0.264" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_main.xml" value="0.23478260869565218" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_main2.xml" value="0.24728260869565216" />
-        <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_menu.xml" value="0.253125" />
-        <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_menu.xml" value="0.128" />
+        <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_profile.xml" value="0.1" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_signup.xml" value="0.24728260869565216" />
       </map>
     </option>
