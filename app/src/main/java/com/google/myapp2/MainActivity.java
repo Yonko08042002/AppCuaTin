@@ -23,4 +23,12 @@ public class MainActivity extends AppCompatActivity {
             }
         }, 2000);
     }
+    public void checkMenu (View view){
+        new Handler().postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                startActivity(new Intent(MainActivity.this, MenuActivity.class));
+            }
+        }, 2000);
+    }
 }

@@ -1,10 +1,10 @@
 package com.google.myapp2;
 
-public class KieuDomain {
-    private String  title;
-    private String  url;
+public class CategoryDomain {
+    private String title;
+    private String url;
 
-    public KieuDomain(String title, String url) {
+    public CategoryDomain(String title, String url) {
         this.title = title;
         this.url = url;
     }

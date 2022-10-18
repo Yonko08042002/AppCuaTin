@@ -1,11 +1,11 @@
 package com.google.myapp2;
 
-public class MostViewDomain {
+public class MostViewedDomain {
     private String title;
     private String subtitle;
     private String url;
 
-    public MostViewDomain(String title, String subtitle, String url) {
+    public MostViewedDomain(String title, String subtitle, String url) {
         this.title = title;
         this.subtitle = subtitle;
         this.url = url;

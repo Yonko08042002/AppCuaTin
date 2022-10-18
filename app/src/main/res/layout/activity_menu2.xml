@@ -25,7 +25,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
-        android:text="Hello Kiều"
+        android:text="Welcome "
         android:textSize="22sp"
         android:textStyle="bold"
         android:textColor="#ffff"
@@ -36,9 +36,9 @@
         android:id="@+id/textView15"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Love You"
+        android:text="Wish you have a good experience"
         android:textColor="#ffff"
-        android:textSize="30sp"
+        android:textSize="15dp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="@+id/textView14"
         app:layout_constraintTop_toBottomOf="@+id/textView14" />
@@ -56,6 +56,7 @@
         android:inputType="textPersonName"
         android:layout_margin="20dp"
         android:background="@drawable/white_edittext"
+        android:drawableStart="@drawable/search"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/circleImageView" />
@@ -64,7 +65,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:orientation="vertical"
-        android:layout_marginTop="32dp"
+        android:layout_marginTop="20dp"
         android:background="@drawable/light_purple_bgr"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -78,16 +79,19 @@
             android:layout_marginTop="32dp"
             android:layout_marginEnd="32dp"
             android:layout_marginStart="32dp"
-            android:text="Kiều"
+            android:text="Manage"
             android:textColor="#000000"
             android:textStyle="bold"
             android:textSize="18sp"/>
 
         <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/viewCategory"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
             android:clipToPadding="false"
-            android:paddingStart="32dp">
+            android:paddingStart="0dp">
 
         </androidx.recyclerview.widget.RecyclerView>
 
@@ -95,7 +99,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
-            android:layout_marginTop="32dp"
+            android:layout_marginTop="20dp"
             android:layout_marginEnd="32dp"
             android:layout_marginStart="32dp">
 
@@ -105,7 +109,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Most Viewed"
+                android:text="News day"
                 android:textColor="#000000"
                 android:textStyle="bold"
                 android:textSize="18sp"
@@ -124,9 +128,12 @@
         </LinearLayout>
 
         <androidx.recyclerview.widget.RecyclerView
+
+            android:id="@+id/viewMostView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginStart="32dp"
-            android:layout_marginEnd="32dp"/>
+            android:layout_marginEnd="32dp"
+            android:layout_marginBottom="20dp"/>
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
