@@ -18,7 +18,7 @@ public class MenuActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_menu2);
+        setContentView(R.layout.activity_menu);
         recyclerView = findViewById(R.id.viewMostView);
         recyclerViewCat = findViewById(R.id.viewCategory);
 
@@ -46,7 +46,7 @@ public class MenuActivity extends AppCompatActivity {
         mostviewed.add(new MostViewedDomain("Covid-19 in the Airport", "Traveling this summer? What to know before going to the airport", "pic_3"));
         mostviewed.add(new MostViewedDomain("FOOTBALL", "WORLD CUP QATAR 2022 GROUPS", "pic_4"));
 
-        adapter=new MostViewAdapter(mostviewed);
+        adapter=new MostViewAdapter(this,mostviewed);
         recyclerView.setAdapter(adapter);
     }
 }

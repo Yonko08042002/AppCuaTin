@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/main_Fragment" android:title="Home" android:icon="@drawable/ic_home_nav" />
+    <item android:id="@+id/profile_Fragment" android:title="Profile" android:icon="@drawable/ic_person_nav"/>
+    <item android:id="@+id/list_Fragment" android:title="My Manage" android:icon="@drawable/ic_list_nav"/>
+</menu>

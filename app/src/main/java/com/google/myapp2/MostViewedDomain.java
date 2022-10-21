@@ -1,6 +1,8 @@
 package com.google.myapp2;
 
-public class MostViewedDomain {
+import java.io.Serializable;
+
+public class MostViewedDomain  implements Serializable {
     private String title;
     private String subtitle;
     private String url;

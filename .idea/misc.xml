@@ -14,17 +14,24 @@
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/drawable/top_bgr.xml" value="0.1895" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/drawable/white_bgr.xml" value="0.2595" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/drawable/white_edittext.xml" value="0.2575" />
+        <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_detail.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_login1.xml" value="0.264" />
-        <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_main.xml" value="0.23478260869565218" />
+        <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_main.xml" value="0.16" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_main2.xml" value="0.24728260869565216" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_menu.xml" value="0.1" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_menu2.xml" value="0.16" />
+        <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_nav.xml" value="0.128" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_profile.xml" value="0.1" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/activity_signup.xml" value="0.24728260869565216" />
+        <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/fragment_list_.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/fragment_main.xml" value="0.15693430656934307" />
+        <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/fragment_main_.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/homemain.xml" value="0.253125" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/menu_activity.xml" value="0.1" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/viewholder.xml" value="0.16" />
         <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/layout/viewholder2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/MyApp2/app/src/main/res/menu/btn_menu.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
@@ -33,5 +40,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
   </component>
 </project>
